@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="base-platform-test" parallel="classes" thread-count="64">
+    <parameter name="save_result_to_db" value="true"/>
+    <parameter name="enable_scf_config" value="false"/>
+    <test verbose="0" preserve-order="false" name="micro-finance-test" parallel="classes" thread-count="64">
+        <groups>
+            <define name="aaa">
+                <include name="test1"/>
+
+            </define>
+            <define name = "bbb">
+                <include name="test2"></include>
+            </define>
+
+            <run>
+                <include name="test1"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.tedu.exc.*"/>
+        </packages>
+        <!-- <classes>
+            <class name="com.tedu.exc.Test22"/>
+        </classes> -->
+
+
+
+    </test>
+</suite>
