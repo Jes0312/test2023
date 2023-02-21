@@ -1,0 +1,24 @@
+2023-02-20 17:46:16,908 INFO [com.tedu.LogTest] - <这是一个 日志测试>
+2023-02-20 17:46:16,924 ERROR [com.tedu.LogTest] - <这是一个错误日志>
+2023-02-20 17:46:16,924 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:46:16,924 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:46:48,024 INFO [com.tedu.LogTest] - <这是一个 日志测试>
+2023-02-20 17:46:48,024 ERROR [com.tedu.LogTest] - <这是一个错误日志>
+2023-02-20 17:46:48,024 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:46:48,024 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:47:02,515 INFO [com.tedu.LogTest] - <这是一个 日志测试>
+2023-02-20 17:47:02,515 ERROR [com.tedu.LogTest] - <这是一个错误日志>
+2023-02-20 17:47:02,515 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:47:02,530 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:54:40,929 INFO [com.tedu.LogTest] - <这是一个 日志测试>
+2023-02-20 17:54:40,929 ERROR [com.tedu.LogTest] - <这是一个错误日志>
+2023-02-20 17:54:40,929 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:54:40,929 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:54:55,382 INFO [com.tedu.LogTest] - <这是一个 日志测试3333>
+2023-02-20 17:54:55,382 ERROR [com.tedu.LogTest] - <这是一个错误日志>
+2023-02-20 17:54:55,382 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:54:55,382 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:56:34,032 INFO [com.tedu.LogTest] - <这是一个 日志测试3333>
+2023-02-20 17:56:34,048 ERROR [com.tedu.LogTest] - <这是一个错误日志>
+2023-02-20 17:56:34,048 WARN [com.tedu.LogTest] - <这是一个警告日志>
+2023-02-20 17:56:34,048 WARN [com.tedu.LogTest] - <这是一个警告日志>
